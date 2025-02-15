@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, Python, Java, C++
-- **Frameworks:** React, Node.js, Django, Spring Boot
+- **Languages:** JavaScript, Python, Swift, C++
+- **Frameworks:** React, Node.js, Django
 - **Tools:** Git, Docker, Kubernetes, Jenkins
 - **Databases:** MySQL, MongoDB, PostgreSQL
 
