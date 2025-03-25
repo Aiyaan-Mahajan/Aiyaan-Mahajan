@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 Feel free to reach out to me for any queries, collaborations, or just to say hi!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aiyaan%20Mahajan-blue)](https://www.linkedin.com/in/aiyaan-mahajan/)
-[![Email](https://img.shields.io/badge/Email-aiyaan.mahajan%40example.com-red)](mailto:aiyaan.mahajan@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aiyaan%20Mahajan-blue)](https://www.linkedin.com/in/aiyaan-mahajan-1b47ab296/)
+[![Email](https://img.shields.io/badge/Email-aiyaan.mahajan%40example.com-red)](mailto:aiyaanmahajan@example.com)
 
 Thanks for visiting my profile! Have a great day! 😊
