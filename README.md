@@ -40,5 +40,4 @@ Welcome to my GitHub! I'm a passionate developer who loves building cool things,
 ## 🤝 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aiyaan%20Mahajan-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aiyaan-mahajan-1b47ab296/)  
-[![Email](mahajanaiyaan@gmail.com)](mahajanaiyaan@gmail.com)
 
