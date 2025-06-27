@@ -1,31 +1,44 @@
-# Hi there, I'm Aiyaan Mahajan! 👋
+# 👋 Hi, I'm Aiyaan Mahajan
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for creating and contributing to open-source projects. Here's a bit about me:
+Welcome to my GitHub! I'm a passionate developer who loves building cool things, learning new tech, and collaborating on open-source projects.
+
+---
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning and exploring advanced topics in software development.
-- 👨‍💻 I’m currently working as an **SDE Intern at [MyTegami.win](https://mytegami.win)** under **[Niksconsulting.com](https://niksconsulting.com)**, founded by Nikhil Tiwari (Shizuoka, Japan).
-- 📫 How to reach me: [Email](mailto:aiyaan.mahajan@example.com) | [LinkedIn](https://www.linkedin.com/in/aiyaan-mahajan/)
-- ⚡ Fun fact: I love solving puzzles and playing chess.
+- 🔭 Currently working as an **SDE Intern** at [MyTegami.win](https://mytegami.win)  
+  under [Niksconsulting.com](https://niksconsulting.com), founded by Nikhil Tiwari (Japan)
+- 🌱 Exploring advanced software development & system design
+- 🧠 I enjoy solving puzzles, writing code, and playing chess
+- 📫 Reach me at:  
+  [📧 Email](mailto:aiyaanmahajan@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/aiyaan-mahajan-1b47ab296/)
 
-## 🛠️ Technologies & Tools
+---
 
-- **Languages:** JavaScript, Python, Swift, C++
-- **Frameworks:** React, Node.js, Django
-- **Tools:** Git, Docker, Kubernetes, Jenkins
-- **Databases:** MySQL, MongoDB, PostgreSQL
+## 🛠️ Tech Stack
 
-## 📈 GitHub Stats
+**Languages:**  
+`JavaScript` `Python` `Swift` `C++`  
 
-![Aiyaan Mahajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aiyaan-Mahajan&show_icons=true&theme=radical)
+**Frameworks:**  
+`React` `Node.js` `Django`  
 
-## 📬 Get in Touch
+**Tools & Platforms:**  
+`Git` `Docker` `Kubernetes` `Jenkins`  
 
-Feel free to reach out to me for any queries, collaborations, or just to say hi!
+**Databases:**  
+`MySQL` `MongoDB` `PostgreSQL`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aiyaan%20Mahajan-blue)](https://www.linkedin.com/in/aiyaan-mahajan-1b47ab296/)  
-[![Email](https://img.shields.io/badge/Email-aiyaanmahajan%40gmail.com-red)](mailto:aiyaanmahajan@gmail.com)
+---
 
-Thanks for visiting my profile! Have a great day! 😊
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aiyaan-Mahajan&show_icons=true&theme=radical)
+
+---
+
+## 🤝 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aiyaan%20Mahajan-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aiyaan-mahajan-1b47ab296/)  
+[![Email](https://img.shields.io/badge/Ema)]()
 
