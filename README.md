@@ -6,8 +6,8 @@ Welcome to my GitHub! I'm a passionate developer who loves building cool things,
 
 ## 🚀 About Me
 
-- 🔭 Currently working as an **SDE Intern** at [MyTegami.win](https://mytegami.win)  
-  under [Niksconsulting.com](https://niksconsulting.com), founded by Nikhil Tiwari (Shizuoka, Japan)
+- 🔭 Currently working remotely as an **SDE Intern** at [MyTegami.win](https://mytegami.win)  
+  under [Niksconsulting.com](https://niksconsulting.com), based of Shizuoka, Japan
 - 🌱 Exploring advanced software development & system design
 - 🧠 I enjoy solving puzzles, writing code, and playing chess
 - 📫 Reach me at:  
