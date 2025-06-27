@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ## 🚀 About Me
 
 - 🌱 I’m currently learning and exploring advanced topics in software development.
+- 👨‍💻 I’m currently working as an **SDE Intern at [MyTegami.win](https://mytegami.win)** under **[Niksconsulting.com](https://niksconsulting.com)**, founded by Nikhil Tiwari (Shizuoka, Japan).
 - 👯 I’m looking to collaborate on interesting and innovative projects.
 - 💬 Ask me about web development, open-source contributions, and software engineering practices.
 - 📫 How to reach me: [Email](mailto:aiyaan.mahajan@example.com) | [LinkedIn](https://www.linkedin.com/in/aiyaan-mahajan/)
@@ -25,7 +26,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 Feel free to reach out to me for any queries, collaborations, or just to say hi!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aiyaan%20Mahajan-blue)](https://www.linkedin.com/in/aiyaan-mahajan-1b47ab296/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aiyaan%20Mahajan-blue)](https://www.linkedin.com/in/aiyaan-mahajan-1b47ab296/)  
 [![Email](https://img.shields.io/badge/Email-aiyaanmahajan%40gmail.com-red)](mailto:aiyaanmahajan@gmail.com)
 
 Thanks for visiting my profile! Have a great day! 😊
+
