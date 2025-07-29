@@ -27,11 +27,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aiyaan-Mahajan&show_icons=true&theme=radical)
-
----
 
 ## 🤝 Let’s Connect
 
