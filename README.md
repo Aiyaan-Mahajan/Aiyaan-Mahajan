@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Aiyaan Mahajan
 
-Welcome to my GitHub! I'm a passionate developer who loves building cool things, learning new tech, and collaborating on open-source projects.
-
----
 
 ## 🚀 About Me
 
